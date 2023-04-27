@@ -1,0 +1,23 @@
+Madhu Login Page
+This is a simple login page that allows users to enter their username and password to access a protected area of the website. The login page is built using HTML and can be used as a starting point for building more complex login systems.
+
+Installation
+To use this login page, simply download the madhu.html file and place it in your web server directory. You may also need to modify the HTML code to suit your specific needs, such as changing the styling or adding additional fields.
+
+Usage
+To use the login page, simply open the madhu.html file in a web browser and enter a valid username and password. If the credentials are correct, the user will be redirected to the protected area of the website. If the credentials are incorrect, an error message will be displayed.
+
+Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. We welcome contributions of all kinds, including bug fixes, feature enhancements, and documentation improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments
+This project was inspired by the need for a simple, lightweight login system that could be easily integrated into a website. We would like to thank the developers and contributors of the open-source software used in this project, including Apache Maven and JUnit.
+ 
+
+
+
+
+
